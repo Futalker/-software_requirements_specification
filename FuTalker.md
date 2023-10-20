@@ -5,6 +5,8 @@
 | 这个作业的目标       | <写上具体方面>   |
 | 其他参考文献         | ...              |
 
+
+
 ## 团队
 
 ### 团队成员自我介绍
@@ -51,7 +53,7 @@
 
 ### 团队合影
 
-![img](./img/4f3d8b444d38f23b65e88aac17b7b6d7_720.jpg)
+![img](https://github.com/Futalker/-software_requirements_specification/blob/Main/img/4f3d8b444d38f23b65e88aac17b7b6d7_720.jpg?raw=true)
 
 ### **项目整体计划安排**
 
